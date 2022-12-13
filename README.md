@@ -1,4 +1,4 @@
-### Olá! Eu sou o Fernando Rodrigues!🤙
+### Olá! Me chamo Fernando, e sou um desenvolvedor FrontEnd em busca de conhecimento! 🤙
 
 ![skills](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![skills](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
