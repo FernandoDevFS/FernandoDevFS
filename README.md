@@ -7,4 +7,4 @@
 
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandorodriguesdev/)
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandodevfs&show_icons=true&theme=transparent)
+![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandodevfs_icons=true&theme=transparent)
